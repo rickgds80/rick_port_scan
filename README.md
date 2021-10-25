@@ -6,4 +6,4 @@ The intent is for educational purposes only, I am not responsible for the misuse
 
 How use:
 
-rick_portscan.py <IP>
+rick_portscan.py IP_ADDRESS
